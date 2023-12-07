@@ -4,7 +4,7 @@ pipeline{
     environment {
         dockerHubRegistry = 'minseok1001'
         dockerHubRegistryCredential = 'docker-hub'
-        githubCredential = 'jenkins'
+        githubCredential = 'minseok1001'
     }
 
     stages {
