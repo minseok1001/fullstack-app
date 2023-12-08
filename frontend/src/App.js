@@ -57,7 +57,7 @@ function App() {
                 <li key={index}>{list.value} </li>
             ))}
             <br />
-            안녕하세요. git test
+            안녕하세요. 대답
             <form className="example" onSubmit={submitHandler}>
               <input
                   type="text"
